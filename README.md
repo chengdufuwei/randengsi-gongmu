@@ -4,7 +4,7 @@
 
 ---
 
-![成都龙泉燃灯寺公墓](https://raw.githubusercontent.com)
+[成都龙泉燃灯寺公墓](https://chengdufuwei.github.io/randengsi-gongmu/)
 
 ---
 
@@ -30,4 +30,4 @@
 *   **周一至周日 08:00 - 20:00**（紧急咨询请直接致电）
 
 ---
-**[点击进入移动端极速预览页面](https://chengdufuwei.github.io)**
+**[点击进入移动端极速预览页面](https://chengdufuwei.github.io/randengsi-gongmu/)**
