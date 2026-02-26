@@ -3,70 +3,85 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <!-- SEO标题：必应搜索的核心抓取点 -->
-    <title>成都龙泉燃灯寺公墓咨询:134-5866-0029_价格查询_接送服务</title>
-    <meta name="description" content="成都龙泉燃灯寺公墓【热线:134-5866-0029】提供燃灯寺公墓环境了解、位置分布及参考报价查询。全成都提供免费看选接送服务，预约即享专车上门。">
+    <title>成都龙泉燃灯寺公墓咨询:134-5866-0029</title>
+    <meta name="description" content="成都龙泉燃灯寺公墓【热线:134-5866-0029】提供价格查询及全成都免费看选接送服务。">
     <style>
         body { 
             font-family: 'PingFang SC', 'Microsoft YaHei', sans-serif; 
-            margin: 0; 
-            padding: 0; 
-            color: #333;
-            /* 背景图核心配置：确保在手机和电脑都居中且不随滚动条移动 */
+            margin: 0; padding: 0; color: #333;
             background-image: url('bj.jpg'); 
             background-size: cover;
             background-position: center center;
             background-attachment: fixed;
             background-repeat: no-repeat;
-            background-color: #333; 
+            background-color: #222; 
         }
 
-        /* 顶部透明留白区：让手机用户一眼看到背景图（公墓远景） */
-        .spacer { height: 180px; width: 100%; background: transparent; }
+        /* 核心调整1：增大顶部留白，让背景图最漂亮的部分露出来 */
+        .spacer { height: 260px; width: 100%; background: transparent; }
 
         .container { 
             max-width: 500px; 
             margin: 0 auto; 
-            /* 半透明白色背景：既能看清文字，又能透出背后的风景图 */
-            background: rgba(255, 255, 255, 0.88); 
+            /* 核心调整2：大幅降低不透明度(0.65)，并添加毛玻璃滤镜 */
+            background: rgba(255, 255, 255, 0.65); 
+            backdrop-filter: blur(10px); /* 磨砂玻璃效果 */
+            -webkit-backdrop-filter: blur(10px);
             min-height: 100vh; 
             display: flex; 
             flex-direction: column; 
-            box-shadow: 0 0 30px rgba(0,0,0,0.5); 
+            box-shadow: 0 -10px 30px rgba(0,0,0,0.3); 
+            border-radius: 20px 20px 0 0; /* 顶部圆角，更有设计感 */
         }
         
-        /* 顶部红色标题区，也做了半透明处理 */
-        .header { width: 100%; background: rgba(165, 42, 42, 0.9); color: #fff; padding: 35px 0; text-align: center; }
-        .header h1 { margin: 0; font-size: 24px; font-weight: bold; letter-spacing: 1px; }
-        .header p { font-size: 18px; margin-top: 10px; font-weight: bold; }
-        .header a { color: #fff; text-decoration: underline; }
+        /* 核心调整3：Header也设为半透明暗红 */
+        .header { 
+            width: 100%; 
+            background: rgba(165, 42, 42, 0.85); 
+            color: #fff; 
+            padding: 30px 0; 
+            text-align: center; 
+            border-radius: 20px 20px 0 0;
+        }
+        .header h1 { margin: 0; font-size: 22px; font-weight: bold; }
+        .header p { font-size: 18px; margin-top: 8px; font-weight: bold; }
+        .header a { color: #fff; text-decoration: none; border-bottom: 1px solid #fff; }
         
         .content { padding: 30px 25px; flex-grow: 1; }
-        .section-title { color: #a52a2a; font-weight: bold; border-left: 5px solid #a52a2a; padding-left: 12px; margin: 25px 0 12px; font-size: 18px; }
-        ul { padding-left: 20px; color: #111; line-height: 2.2; margin: 0; font-weight: 500; }
-        li { margin-bottom: 8px; }
+        .section-title { color: #800000; font-weight: bold; border-left: 5px solid #800000; padding-left: 12px; margin: 20px 0 10px; font-size: 18px; }
+        /* 核心调整4：文字加粗并稍微加深，确保在透明背景下依然清晰 */
+        ul { padding-left: 20px; color: #000; line-height: 2.2; margin: 0; font-weight: 600; }
+        li { margin-bottom: 8px; text-shadow: 0 0 1px rgba(255,255,255,0.8); }
 
-        /* 底部固定拨号区 */
-        .call-area { position: sticky; bottom: 0; width: 100%; background: rgba(255,255,255,0.95); padding: 20px 0; border-top: 1px solid #ddd; text-align: center; }
+        .call-area { 
+            position: sticky; 
+            bottom: 0; 
+            width: 100%; 
+            background: rgba(255,255,255,0.9); 
+            backdrop-filter: blur(5px);
+            padding: 20px 0; 
+            border-top: 1px solid #ddd; 
+            text-align: center; 
+        }
         .call-btn { 
-            display: block; width: 88%; background: linear-gradient(135deg, #d32f2f, #a52a2a); 
+            display: block; width: 88%; 
+            background: linear-gradient(135deg, #d32f2f, #800000); 
             color: #fff; text-decoration: none; font-size: 22px; font-weight: bold; 
-            padding: 18px 0; border-radius: 50px; margin: 0 auto;
-            box-shadow: 0 6px 18px rgba(165,42,42,0.4);
+            padding: 16px 0; border-radius: 50px; margin: 0 auto;
+            box-shadow: 0 6px 18px rgba(128,0,0,0.4);
             animation: pulse 2s infinite;
         }
         
-        /* 呼吸灯动画：吸引客户点击拨号 */
         @keyframes pulse {
             0% { transform: scale(1); }
             50% { transform: scale(1.03); }
             100% { transform: scale(1); }
         }
-        .footer-tips { font-size: 13px; color: #666; margin-top: 10px; font-weight: bold; }
+        .footer-tips { font-size: 13px; color: #333; margin-top: 10px; font-weight: bold; }
     </style>
 </head>
 <body>
-    <!-- 这个透明层会露出你的背景图 bj.jpg -->
+    <!-- 增加留白，让背景图直接露在最上面 -->
     <div class="spacer"></div>
 
     <div class="container">
@@ -76,18 +91,18 @@
         </div>
         
         <div class="content">
-            <div class="section-title">📍 服务项目</div>
+            <div class="section-title">📍 服务内容</div>
             <ul>
-                <li><strong>信息咨询</strong>：提供环境、位置及参考报价。</li>
-                <li><strong>实地预约</strong>：专业顾问陪同讲解，协助规划。</li>
-                <li><strong>接送服务</strong>：面向<strong>全成都提供接送服务</strong>，专车上门。</li>
+                <li><strong>信息咨询</strong>：环境、位置及参考报价。</li>
+                <li><strong>实地预约</strong>：专业顾问陪同，协助规划。</li>
+                <li><strong>接送服务</strong>：面向<strong>全成都提供接送服务</strong>。</li>
             </ul>
 
             <div class="section-title">✨ 服务保障</div>
             <ul>
-                <li>价格透明：公开参考报价，无隐形消费。</li>
-                <li>专业接待：一对一顾问，提供环境对比。</li>
-                <li>高效响应：热线24小时接听，及时指导。</li>
+                <li>价格透明：公开报价，无隐形消费。</li>
+                <li>专业接待：一对一顾问，对比分析。</li>
+                <li>高效响应：热线24小时接听指导。</li>
             </ul>
         </div>
 
