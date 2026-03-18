@@ -1,6 +1,6 @@
 # 📍 成都龙泉燃灯寺公墓
 
-> **官方咨询热线：[📞 点击拨打：134 5866 0029](tel:13458660029)**
+> **官方咨询热线：[📞 点击拨打：138-0801-1743](tel:13808011743)**
 
 ---
 
@@ -11,7 +11,7 @@
 
 ### 📞 快速联系通道
 如果您正在通过手机浏览，请直接点击下方链接拨号：
-## 👉 [【立即拨打：134 5866 0029】](tel:13458660029) 👈
+## 👉 [【立即拨打：138-0801-1743】](tel:13808011743) 👈
 
 ---
 
@@ -31,11 +31,11 @@
 *   **周一至周日 08:00 - 20:00**（紧急咨询请直接致电）
 
 ---
-**[点击访问：移动端极速预览页面](https://chengdufuwei.github.io/randengsi-gongmu/)**
+**[点击访问：移动端极速预览页面](https://www.chengdurandengsigm.com/)**
 
 ---
 
 ### 🔍 搜索索引 / Search Index
 
-**核心关键词**：[燃灯寺公墓](https://chengdufuwei.github.io/randengsi-gongmu/)、成都燃灯寺公墓、成都龙泉燃灯寺公墓、燃灯寺陵园。
-**常见咨询**：[成都有哪些公墓—燃灯寺公墓](https://chengdufuwei.github.io/randengsi-gongmu/)、成都公墓有哪些—龙泉燃灯寺公墓、成都龙泉有哪些公墓—燃灯寺公墓、[燃灯寺公墓价格查询](https://chengdufuwei.github.io/randengsi-gongmu/)。
+**核心关键词**：[燃灯寺公墓](https://www.chengdurandengsigm.com/)、成都燃灯寺公墓、成都龙泉燃灯寺公墓、燃灯寺陵园。
+**常见咨询**：[成都有哪些公墓—燃灯寺公墓](https://www.chengdurandengsigm.com/)、成都公墓有哪些—龙泉燃灯寺公墓、成都龙泉有哪些公墓—燃灯寺公墓、[燃灯寺公墓价格查询](https://www.chengdurandengsigm.com/)。
